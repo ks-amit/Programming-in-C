@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## PROGRAMMING IN C
 
 You can use the [editor on GitHub](https://github.com/dumbape/Programming-in-C/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
